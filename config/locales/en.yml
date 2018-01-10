@@ -30,4 +30,17 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  controllers:
+    users:
+      m_success: "Welcome to the Sample App"
+      m_nil: "The users is id does not exist"
+  views:
+    users:
+      Signup: "Sign up"
+      name_label: "Name"
+      email_label: "Email"
+      password_label: "Password"
+      password_confirmation_label: "Confirmation"
+    shared:
+      error_m: "The form contains"
+      error: "error"
