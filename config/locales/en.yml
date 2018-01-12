@@ -31,6 +31,10 @@
 
 en:
   controllers:
+    concerns:
+      Plogin: "Please log in."
+      Userdeleted: "User deleted"
+      Profileupdated: "Profile updated"
     users:
       m_success: "Welcome to the Sample App"
       m_nil: "The users is id does not exist"
@@ -47,6 +51,11 @@ en:
     static_pages:
       about: "About"
     users:
+      sure: "You sure?" 
+      delete: "delete"
+      Allusers: "All users"
+      Save: "Save changes"
+      Edituser: "Edit user"
       create: "Create my account"
       Signup: "Sign up"
       name_label: "Name"
